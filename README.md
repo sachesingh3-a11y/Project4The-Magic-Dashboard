@@ -1,3 +1,5 @@
+
+
 # Project M4: Interaction Master ⚡
 Tugas praktikum Minggu 4 - State & Events.
 
@@ -7,6 +9,10 @@ Tugas praktikum Minggu 4 - State & Events.
 
 
 video project magic dashboard
+
+https://github.com/user-attachments/assets/8bea28cd-135f-4247-af4d-97cb2ee28188
+
+
 
 
 
