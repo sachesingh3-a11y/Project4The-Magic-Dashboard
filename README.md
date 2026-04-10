@@ -2,8 +2,7 @@
 Tugas praktikum Minggu 4 - State & Events.
 
 ## 📸 Preview
-(![Tampilan Aplikasi React](assets/Screenshot 2026-04-10 222510.png))
-
+![Tampilan Aplikasi](./images/preview.png)
 ## 🛠️ Logic Implemented
 - **useState Hook:** Managing name and role input.
 - **Event Handlers:** onChangeText for real-time binding.
